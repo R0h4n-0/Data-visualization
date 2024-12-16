@@ -1,0 +1,13 @@
+name: forest_visualization
+title: forest_visualization
+username: roh4n
+account: roh4n
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13059311
+bundleId: 9240250
+url: https://roh4n.shinyapps.io/forest_visualization/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: by wilderness area.nb.html|by wilderness area.Rmd|general.nb.html|general.Rmd|jh.nb.html|jh.Rmd|project.knit.md|project.nb.html|project.Rmd|shiny.nb.html
